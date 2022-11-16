@@ -25,6 +25,11 @@ h4{
     position: relative;
     left: 25rem;
 }
+h3{
+    text-align: left;
+    font-size: 1.5rem;
+    color: red;
+}
 ul{
     display: flex;
     justify-content: center;
@@ -38,7 +43,7 @@ li{
     padding: 80px;
 }
 li:hover{
-    color: white;
+    color: cadetblue;
 }
 .logo{
     margin-top: 0.1em;
@@ -48,9 +53,12 @@ li:hover{
     border: 0.2rem solid green;
     position: absolute;
 }
-h3{
-    text-align: center;
-    font-size: 1rem;
-    
+p{
+    text-align: justify;
+    font-size: 1.2rem;
+    color: black;
+}
+a{
+    color: cadetblue;
 }
 
