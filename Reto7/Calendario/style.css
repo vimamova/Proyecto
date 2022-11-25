@@ -1,0 +1,99 @@
+*{
+    margin: 0.2rem;
+    padding: 0.2rem;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00bfff;
+}
+main{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+}
+h1{
+    font-size: 4rem;
+    letter-spacing: 1rem;
+    
+    
+}
+h3{
+    font-size: 2rem;
+}
+tr{
+    font-size: 2rem;
+}
+th{
+    letter-spacing: normal;
+    width: 5rem;
+    font-weight: bold;
+}
+td{
+    letter-spacing: normal;
+    width: 5rem;
+}
+.th1{
+    border-bottom: solid #6495ed;
+}
+.Oc{
+    background-color: #fff8dc;
+    width: 130rem;
+    border-style: solid;
+    border-width:0.5rem;
+    height: 24rem;
+}
+.No{
+    background-color: #fff8dc;
+    width: 130rem;
+    border-style: solid;
+    border-width:0.5rem;
+    height: 23rem;
+}
+.Di{
+    background-color: #fff8dc;
+    width: 130rem;
+    height: 50rem;
+    border-style: solid;
+    border-width:0.5rem;
+}
+.O{
+    text-align: center;
+}
+.N{
+    text-align:center;
+    position: relative;
+    left: 10rem;
+}
+.D{
+    text-align:center;
+    position: relative;
+    right: 17.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: none;
+    font-size: 2rem;
+}
+table{
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+.td1{
+    border-right: solid #6495ed;
+}
+.t3{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+.td2{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 8rem;
+    height: 8rem;
+}

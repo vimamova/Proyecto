@@ -1,0 +1,67 @@
+*{
+    margin: 0.1rem;
+    padding: 0.1rem;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+    text-align:right;
+    font-size: 7rem;
+    letter-spacing: 5rem;
+    position: relative;
+    right: 1rem;
+}
+.general{
+    background-color:#B2C5A5;
+}
+h2{
+    font-size: 1.7rem;
+    color: white;
+    background-color: #666600;
+}
+.PE{
+    position: relative;
+    left: 20rem;
+    top: 3.6rem;
+    width: 113.5rem;
+}
+p{
+    font-size: 1.5rem;
+    color: black;
+    display: inline-block;
+}
+.P1{
+    position: relative;
+    left: 20rem;
+    bottom: 15rem;
+    width: 113.5rem;
+}
+.museo{
+    position: relative;
+    left: 55rem;
+}
+.metro{
+    position: relative;
+    left: 113.5rem;
+    
+}
+.P3{
+    position: relative;
+    right: 0.2rem;
+    bottom: 20rem;
+    width: 113.5rem;
+}
+footer{
+    font-size: 1.5rem;
+    color: black;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
