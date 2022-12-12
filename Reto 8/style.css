@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 2rem;
+    border: 0.2rem solid gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #0EA172;
+    border: 0.2rem solid gray;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 40rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+p {
+    border: 0.2rem solid gray;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 40rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+h2 {
+    color: blue;
+    border: 0.2rem solid gray;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 40rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+table {
+    border: 0.2rem solid gray;
+     border-collapse: collapse;
+     text-align: center;
+}
+
+table, td{
+    border: 0.2rem solid gray;
+    padding: 0.5rem;
+    
+}
+
+.p1 {
+    text-decoration: underline;
+}
+
+.pRed {
+    color: red;
+    border: 0.2rem solid gray;
+}
+
+.pBlue{
+    color: blue;
+    border: 0.2rem solid gray;
+}
+
+.pPurple {
+    color: purple;
+    border: 0.2rem solid gray;
+}
+
+.t1 {
+    color: blue;
+}
+
+.tYellow {
+    color: #eaee10;
+}
+
+.tGreen {
+    color: green;
+}
+
+.tRed1{
+    color: red;
+}
+
+.tYellow1 {
+    color: #eaee10;
+    border: 0.2rem solid gray;
+}
+
+.tGreen1 {
+    border: 0.2rem solid gray;
+}
+
+.end {
+    color: #A4BB80;
+    border: 0.2rem solid gray;
+}
+
+.p2{
+    border: 0.2rem solid gray;
+}
+
+.pPink {
+    border: 0.2rem solid gray;
+    color: #EB3BA0;
+}
+
+.pGreen1 {
+    color: #2BBA05;
+    border: 0.2rem solid gray;
+}
