@@ -1,6 +1,6 @@
 :root{
     --primary-color:#ECF1EC;
-    --second-color: #0F84E3;
+    --second-color: blue;
 }
 
 *{
@@ -24,9 +24,9 @@ header{
     align-items: center;
 }
 .logo {
-    margin-left: 1.5rem;
+    margin-left: 2rem;
     color: var(--second-color);
-    font-size: 1.9rem;
+    font-size: 2rem;
     font-weight: bold;
     width: 50%;
 }
@@ -43,7 +43,7 @@ form, label, input{
     padding-left: 0.5rem;
     border: 0.1rem solid #CECECE;
     color: #B2AEAE;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: bold;
 }
 .formulario, form, button{
@@ -63,17 +63,17 @@ form, label, input{
     width: 17%;
     padding: 1rem;
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 .RContraseña{
     color: var(--second-color);
     margin-left: 0.5rem;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 main{
     width: 100vw;
     height: 80vh;
-    background-color: white;
+    background-color: #CEECF5;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -87,8 +87,8 @@ main{
 .FPortada{
   width: 95rem;
   height: 34rem;
-  border-end-end-radius:  1rem;
-  border-end-start-radius: 1rem;
+  border-end-end-radius:  2rem;
+  border-end-start-radius: 2rem;
 }
 .FPerfil{
     width: 17rem;
@@ -97,7 +97,7 @@ main{
     position: absolute;
     left: 3rem;
     bottom: -6rem;
-    background-color: white ;
+    background-color:#CEECF5 ;
 }
 .circulo{
     width: 16rem;
@@ -120,7 +120,7 @@ main{
 .nav{
     width: 64%;
     height: 10%;
-    border-top: 0.1rem solid #C4C8C4;
+    border-top: 0.1rem solid gray;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -131,15 +131,15 @@ ul{
 }
 ul li{
     padding: 1rem;
-    font-size: 1.4rem;
+    font-size: 1.7rem;
 }
 ul li a{
-    color: #777778;
+    color: gray;
     text-decoration: none;
     font-weight: bold;
 }
 .mas{
-    background-color: #C4C8C4;
+    background-color:#E6E6E6;
     border: none;
     height: 70%;
     width: 5%;
@@ -150,14 +150,14 @@ ul li a{
     margin-bottom: 0.1rem;
 }
 .mas a{
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.7rem;
     text-decoration: none;
     color: black;
 }
 .medio{
     width: 100vw;
     height: auto;
-    background-color: #DFE9E6;
+    background-color: #CEECF5;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,7 +209,7 @@ h3{
     padding-left: 2rem;
 }
 .fotos1{
-    color: var(--second-color);
+    color: blue;
     font-size: 1.8rem;
     margin-top: 1.5rem;
     margin-right: 1.5rem;
