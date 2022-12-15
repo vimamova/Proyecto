@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    background-color: #E0E0E0;
+    margin-bottom: 3rem;
+    padding: 3rem;
+}
+h1{
+    font-size: 5rem;
+    color: green;
+    text-align: center;
+}
+.mitologia{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(250px, 550px));
+    justify-content: center;
+    justify-items: center;
+    margin-bottom: 3rem;
+}
+.mitologia-picture img{
+    width: 100%;
+}
+.mitologia-article{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.mitologia-article h1{
+    font-size: 3.1rem;
+    margin-bottom: 2.5rem;
+}
+.mitologia-article p{
+    margin-bottom: 1.5rem;
+    font-size: 2.1rem;
+}
+.mitologiaLibros{
+    display: grid;
+    grid-template-columns: repeat(5, minmax(100px, 300px));
+    justify-content: center;
+    gap: 4rem;
+    margin-bottom: 3rem;
+}
+.mitologiaLibros-picture img{
+    width: 20rem;
+    height: 20rem;
+}
+
+button{
+    width: 12rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    margin-top: 3rem;
+    border-radius: 1rem;
+    margin-left: 4rem;
+}
