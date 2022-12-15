@@ -103,5 +103,9 @@ a{
     a{
         padding: 10px 0px;
     }
+    html{
+        width: 100%;
+        height: 100%;
+    }
 }
 
